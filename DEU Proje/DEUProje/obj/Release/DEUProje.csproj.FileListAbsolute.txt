@@ -1,0 +1,10 @@
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\bin\Release\DEUProje.exe.config
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\bin\Release\DEUProje.exe
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\bin\Release\DEUProje.pdb
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\obj\Release\DEUProje.Form1.resources
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\obj\Release\DEUProje.Form2.resources
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\obj\Release\DEUProje.Properties.Resources.resources
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\obj\Release\DEUProje.csproj.GenerateResource.Cache
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\obj\Release\DEUProje.exe
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\obj\Release\DEUProje.pdb
+C:\Users\DevrimC\documents\visual studio 2013\Projects\DEUProje\DEUProje\obj\Release\DEUProje.csprojResolveAssemblyReference.cache
